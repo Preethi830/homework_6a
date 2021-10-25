@@ -1,3 +1,2 @@
-Added Interaction on the Home Page (index.html) - User will be able to click on 'Shop' page to see the product page. 
-User will also be able to click on any of the products in the 'Shop' page to see product detail pages.
-Bonus work done was adding product detail pages for all products.
+PUI 6A assignment Fall 2021: Implemented the 'Add to Cart' feature. When user clicks "Add to Cart" Button, they are redirected to Shopping Cart Page. Shopping Cart icon is updated with the number of items as visual indication that products have been added to their cart. This number can be seen on top of the cart visual on the top right hand corner of the website. When new items are added, the user will also see a message pop up above the Add to Cart button inidicating what they added to the cart.
+
